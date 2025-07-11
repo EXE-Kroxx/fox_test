@@ -1155,6 +1155,64 @@
       "answers": {
         "3": false
       }
+    },
+    {
+      "questionId": 329,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 96,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 108,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 34,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 205,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 242,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
+    },
+    {
+      "questionId": 88,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 93,
+      "answers": {
+        "1": false,
+        "2": false,
+        "3": true
+      }
     }
   ]
 }
