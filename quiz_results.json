@@ -653,6 +653,80 @@
         "2": false,
         "3": true
       }
+    },
+    {
+      "questionId": 13,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
+    },
+    {
+      "questionId": 212,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 56,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
+    },
+    {
+      "questionId": 100,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 155,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
+    },
+    {
+      "questionId": 68,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 228,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 236,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 264,
+      "answers": {
+        "1": false,
+        "2": false,
+        "3": true
+      }
+    },
+    {
+      "questionId": 281,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
     }
   ]
 }
