@@ -1687,6 +1687,46 @@
       "answers": {
         "2": false
       }
+    },
+    {
+      "questionId": 103,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 140,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
+    },
+    {
+      "questionId": 280,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 109,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 252,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 315,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
     }
   ]
 }
