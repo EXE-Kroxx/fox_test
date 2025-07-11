@@ -1783,6 +1783,26 @@
       "answers": {
         "1": false
       }
+    },
+    {
+      "questionId": 147,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 163,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 158,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
