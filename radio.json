@@ -79,6 +79,14 @@
         "2": false,
         "3": false
       }
+    },
+    {
+      "subjectId": 45,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
     }
   ]
 }
