@@ -127,6 +127,14 @@
         "2": false,
         "3": true
       }
+    },
+    {
+      "subjectId": 43,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
     }
   ]
 }
