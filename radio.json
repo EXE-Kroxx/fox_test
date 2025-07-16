@@ -135,6 +135,14 @@
         "2": false,
         "3": false
       }
+    },
+    {
+      "subjectId": 52,
+      "answers": {
+        "1": false,
+        "2": false,
+        "3": true
+      }
     }
   ]
 }
