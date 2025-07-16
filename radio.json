@@ -2,15 +2,11 @@
   "questions": [
     {
       "subjectId": 58,
-      "correctAnswer": 2,
-      "attempts": [
-        {
-          "answer": 2,
-          "isRight": true,
-          "timestamp": "2025-07-16T12:54:49.312980"
-        }
-      ],
-      "lastUpdated": "2025-07-16T12:54:49.312980"
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
     },
     {
       "subjectId": 63,
