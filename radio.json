@@ -31,6 +31,12 @@
         "2": true,
         "3": false
       }
+    },
+    {
+      "subjectId": 48,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
