@@ -43,6 +43,14 @@
       "answers": {
         "2": false
       }
+    },
+    {
+      "subjectId": 59,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
     }
   ]
 }
