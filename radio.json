@@ -223,6 +223,14 @@
         "2": true,
         "3": false
       }
+    },
+    {
+      "subjectId": 53,
+      "answers": {
+        "1": false,
+        "2": false,
+        "3": true
+      }
     }
   ]
 }
