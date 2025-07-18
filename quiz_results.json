@@ -1313,7 +1313,9 @@
     {
       "questionId": 167,
       "answers": {
-        "1": false
+        "1": false,
+        "2": false,
+        "3": true
       }
     },
     {
@@ -2036,6 +2038,18 @@
         "1": false,
         "2": false,
         "3": true
+      }
+    },
+    {
+      "questionId": 186,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 72,
+      "answers": {
+        "3": false
       }
     }
   ]
