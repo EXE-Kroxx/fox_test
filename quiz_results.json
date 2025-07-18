@@ -2409,6 +2409,12 @@
       "answers": {
         "3": false
       }
+    },
+    {
+      "questionId": 3,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
