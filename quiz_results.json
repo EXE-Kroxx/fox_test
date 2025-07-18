@@ -1637,7 +1637,9 @@
     {
       "questionId": 322,
       "answers": {
-        "1": false
+        "1": false,
+        "2": false,
+        "3": true
       }
     },
     {
@@ -1817,7 +1819,9 @@
     {
       "questionId": 189,
       "answers": {
-        "1": false
+        "1": false,
+        "2": true,
+        "3": false
       }
     },
     {
@@ -2197,7 +2201,9 @@
     {
       "questionId": 30,
       "answers": {
-        "3": false
+        "3": false,
+        "1": true,
+        "2": false
       }
     },
     {
@@ -2208,6 +2214,20 @@
     },
     {
       "questionId": 240,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 55,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 257,
       "answers": {
         "1": false
       }
