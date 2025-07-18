@@ -2123,6 +2123,12 @@
       "answers": {
         "2": false
       }
+    },
+    {
+      "questionId": 284,
+      "answers": {
+        "3": false
+      }
     }
   ]
 }
