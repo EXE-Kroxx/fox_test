@@ -1729,7 +1729,9 @@
     {
       "questionId": 154,
       "answers": {
-        "3": false
+        "3": false,
+        "1": true,
+        "2": false
       }
     },
     {
@@ -2239,7 +2241,9 @@
     {
       "questionId": 184,
       "answers": {
-        "1": false
+        "1": false,
+        "2": true,
+        "3": false
       }
     },
     {
@@ -2272,6 +2276,12 @@
       "questionId": 316,
       "answers": {
         "1": false
+      }
+    },
+    {
+      "questionId": 292,
+      "answers": {
+        "2": false
       }
     }
   ]
