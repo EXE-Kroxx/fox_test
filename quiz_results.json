@@ -2371,6 +2371,24 @@
       "answers": {
         "1": false
       }
+    },
+    {
+      "questionId": 122,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 324,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 267,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
