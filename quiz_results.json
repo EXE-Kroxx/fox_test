@@ -2389,6 +2389,12 @@
       "answers": {
         "1": false
       }
+    },
+    {
+      "questionId": 6,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
