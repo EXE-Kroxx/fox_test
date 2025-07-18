@@ -2235,7 +2235,9 @@
     {
       "questionId": 240,
       "answers": {
-        "1": false
+        "1": false,
+        "2": true,
+        "3": false
       }
     },
     {
@@ -2304,6 +2306,22 @@
         "1": false,
         "2": false,
         "3": true
+      }
+    },
+    {
+      "questionId": 80,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 277,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
       }
     }
   ]
