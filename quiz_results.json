@@ -1999,6 +1999,24 @@
       "answers": {
         "3": false
       }
+    },
+    {
+      "questionId": 304,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 144,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 165,
+      "answers": {
+        "2": false
+      }
     }
   ]
 }
