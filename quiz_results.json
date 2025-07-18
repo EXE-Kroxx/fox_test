@@ -2323,6 +2323,12 @@
         "2": false,
         "3": false
       }
+    },
+    {
+      "questionId": 24,
+      "answers": {
+        "3": false
+      }
     }
   ]
 }
