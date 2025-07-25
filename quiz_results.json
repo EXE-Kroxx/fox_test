@@ -2533,6 +2533,12 @@
       "answers": {
         "2": false
       }
+    },
+    {
+      "questionId": 246,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
