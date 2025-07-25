@@ -2513,6 +2513,12 @@
         "2": false,
         "3": true
       }
+    },
+    {
+      "questionId": 148,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
