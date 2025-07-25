@@ -1965,7 +1965,9 @@
     {
       "questionId": 94,
       "answers": {
-        "2": false
+        "2": false,
+        "1": true,
+        "3": false
       }
     },
     {
@@ -2399,7 +2401,9 @@
     {
       "questionId": 159,
       "answers": {
-        "1": false
+        "1": false,
+        "2": false,
+        "3": true
       }
     },
     {
@@ -2478,6 +2482,20 @@
     },
     {
       "questionId": 69,
+      "answers": {
+        "1": false,
+        "2": false,
+        "3": true
+      }
+    },
+    {
+      "questionId": 287,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 219,
       "answers": {
         "1": false,
         "2": false,
