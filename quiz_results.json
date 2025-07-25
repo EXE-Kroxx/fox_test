@@ -1939,7 +1939,9 @@
     {
       "questionId": 213,
       "answers": {
-        "2": false
+        "2": false,
+        "1": false,
+        "3": true
       }
     },
     {
