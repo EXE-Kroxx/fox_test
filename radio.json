@@ -359,6 +359,14 @@
         "2": true,
         "3": false
       }
+    },
+    {
+      "subjectId": 24,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
     }
   ]
 }
