@@ -415,6 +415,14 @@
         "2": false,
         "3": true
       }
+    },
+    {
+      "subjectId": 27,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
     }
   ]
 }
