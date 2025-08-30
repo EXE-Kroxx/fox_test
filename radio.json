@@ -503,6 +503,14 @@
         "2": true,
         "3": false
       }
+    },
+    {
+      "subjectId": 14,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
     }
   ]
 }
