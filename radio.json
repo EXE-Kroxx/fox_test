@@ -519,6 +519,14 @@
         "2": true,
         "3": false
       }
+    },
+    {
+      "subjectId": 4,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
     }
   ]
 }
