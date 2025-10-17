@@ -2829,7 +2829,9 @@
     {
       "questionId": 456,
       "answers": {
-        "1": false
+        "1": false,
+        "2": true,
+        "3": false
       }
     },
     {
@@ -3298,6 +3300,26 @@
       "questionId": 483,
       "answers": {
         "1": false
+      }
+    },
+    {
+      "questionId": 450,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 342,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 489,
+      "answers": {
+        "2": false
       }
     }
   ]
