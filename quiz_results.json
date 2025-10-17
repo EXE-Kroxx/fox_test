@@ -2767,6 +2767,50 @@
         "2": true,
         "3": false
       }
+    },
+    {
+      "questionId": 352,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
+    },
+    {
+      "questionId": 418,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 420,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 340,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 501,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 353,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 456,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
