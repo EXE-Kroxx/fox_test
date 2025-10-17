@@ -2729,6 +2729,44 @@
         "2": true,
         "3": false
       }
+    },
+    {
+      "questionId": 458,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 396,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
+    },
+    {
+      "questionId": 348,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 427,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
+    },
+    {
+      "questionId": 426,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
     }
   ]
 }
