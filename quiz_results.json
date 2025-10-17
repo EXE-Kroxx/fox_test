@@ -3003,7 +3003,9 @@
     {
       "questionId": 493,
       "answers": {
-        "1": false
+        "1": false,
+        "2": true,
+        "3": false
       }
     },
     {
@@ -3271,7 +3273,9 @@
     {
       "questionId": 481,
       "answers": {
-        "1": false
+        "1": false,
+        "2": true,
+        "3": false
       }
     },
     {
@@ -3299,7 +3303,9 @@
     {
       "questionId": 483,
       "answers": {
-        "1": false
+        "1": false,
+        "2": true,
+        "3": false
       }
     },
     {
@@ -3320,6 +3326,34 @@
       "questionId": 489,
       "answers": {
         "2": false
+      }
+    },
+    {
+      "questionId": 480,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 451,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 469,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 385,
+      "answers": {
+        "3": false
       }
     }
   ]
