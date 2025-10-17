@@ -2867,6 +2867,42 @@
       "answers": {
         "2": false
       }
+    },
+    {
+      "questionId": 433,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 341,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 429,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 441,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 382,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
     }
   ]
 }
