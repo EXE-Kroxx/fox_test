@@ -3253,7 +3253,9 @@
     {
       "questionId": 472,
       "answers": {
-        "3": false
+        "3": false,
+        "1": false,
+        "2": true
       }
     },
     {
@@ -3377,7 +3379,9 @@
     {
       "questionId": 499,
       "answers": {
-        "3": false
+        "3": false,
+        "1": false,
+        "2": true
       }
     },
     {
@@ -3409,7 +3413,9 @@
     {
       "questionId": 484,
       "answers": {
-        "3": false
+        "3": false,
+        "1": false,
+        "2": true
       }
     },
     {
