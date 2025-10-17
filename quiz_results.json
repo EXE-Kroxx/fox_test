@@ -3427,7 +3427,9 @@
     {
       "questionId": 496,
       "answers": {
-        "3": false
+        "3": false,
+        "1": false,
+        "2": true
       }
     },
     {
@@ -3605,7 +3607,9 @@
     {
       "questionId": 486,
       "answers": {
-        "3": false
+        "3": false,
+        "1": false,
+        "2": true
       }
     },
     {
