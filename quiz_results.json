@@ -3107,7 +3107,9 @@
     {
       "questionId": 335,
       "answers": {
-        "1": false
+        "1": false,
+        "2": false,
+        "3": true
       }
     },
     {
@@ -3118,6 +3120,38 @@
     },
     {
       "questionId": 416,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 397,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
+    },
+    {
+      "questionId": 464,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 395,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 338,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 436,
       "answers": {
         "1": false
       }
