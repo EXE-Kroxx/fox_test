@@ -2849,6 +2849,24 @@
         "2": true,
         "3": false
       }
+    },
+    {
+      "questionId": 339,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 372,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 360,
+      "answers": {
+        "2": false
+      }
     }
   ]
 }
