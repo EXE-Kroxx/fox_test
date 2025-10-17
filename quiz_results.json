@@ -3523,6 +3523,18 @@
       "answers": {
         "1": false
       }
+    },
+    {
+      "questionId": 336,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 332,
+      "answers": {
+        "2": false
+      }
     }
   ]
 }
