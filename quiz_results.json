@@ -3003,6 +3003,40 @@
       "answers": {
         "2": false
       }
+    },
+    {
+      "questionId": 369,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 412,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 391,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
+    },
+    {
+      "questionId": 474,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 468,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
     }
   ]
 }
