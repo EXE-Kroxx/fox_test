@@ -2575,6 +2575,38 @@
         "1": true,
         "3": false
       }
+    },
+    {
+      "questionId": 370,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 477,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 457,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 487,
+      "answers": {
+        "1": false,
+        "2": false,
+        "3": true
+      }
+    },
+    {
+      "questionId": 478,
+      "answers": {
+        "3": false
+      }
     }
   ]
 }
