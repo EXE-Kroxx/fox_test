@@ -2811,6 +2811,28 @@
       "answers": {
         "1": false
       }
+    },
+    {
+      "questionId": 357,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 392,
+      "answers": {
+        "1": false,
+        "2": false,
+        "3": true
+      }
+    },
+    {
+      "questionId": 488,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
     }
   ]
 }
