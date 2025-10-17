@@ -2607,6 +2607,26 @@
       "answers": {
         "3": false
       }
+    },
+    {
+      "questionId": 344,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 390,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
+    },
+    {
+      "questionId": 405,
+      "answers": {
+        "3": false
+      }
     }
   ]
 }
