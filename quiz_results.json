@@ -2669,6 +2669,38 @@
         "2": false,
         "3": false
       }
+    },
+    {
+      "questionId": 502,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 364,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 490,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 431,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
+    },
+    {
+      "questionId": 394,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
