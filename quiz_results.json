@@ -3489,13 +3489,17 @@
     {
       "questionId": 379,
       "answers": {
-        "1": false
+        "1": false,
+        "2": true,
+        "3": false
       }
     },
     {
       "questionId": 497,
       "answers": {
-        "3": false
+        "3": false,
+        "1": true,
+        "2": false
       }
     },
     {
@@ -3564,6 +3568,12 @@
         "1": false,
         "2": true,
         "3": false
+      }
+    },
+    {
+      "questionId": 381,
+      "answers": {
+        "1": false
       }
     }
   ]
