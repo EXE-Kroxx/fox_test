@@ -3557,6 +3557,14 @@
       "answers": {
         "3": false
       }
+    },
+    {
+      "questionId": 447,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
     }
   ]
 }
