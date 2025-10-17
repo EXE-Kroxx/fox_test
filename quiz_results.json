@@ -3631,13 +3631,23 @@
     {
       "questionId": 343,
       "answers": {
-        "3": false
+        "3": false,
+        "1": false,
+        "2": true
       }
     },
     {
       "questionId": 503,
       "answers": {
         "1": false
+      }
+    },
+    {
+      "questionId": 423,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
       }
     }
   ]
