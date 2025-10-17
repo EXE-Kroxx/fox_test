@@ -3609,6 +3609,24 @@
       "answers": {
         "3": false
       }
+    },
+    {
+      "questionId": 470,
+      "answers": {
+        "2": false
+      }
+    },
+    {
+      "questionId": 359,
+      "answers": {
+        "1": false
+      }
+    },
+    {
+      "questionId": 452,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
