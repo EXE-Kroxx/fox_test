@@ -3633,6 +3633,12 @@
       "answers": {
         "3": false
       }
+    },
+    {
+      "questionId": 503,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
