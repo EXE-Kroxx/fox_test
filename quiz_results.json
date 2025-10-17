@@ -2833,6 +2833,22 @@
         "2": true,
         "3": false
       }
+    },
+    {
+      "questionId": 430,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "questionId": 380,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
     }
   ]
 }
