@@ -3723,6 +3723,12 @@
       "answers": {
         "2": false
       }
+    },
+    {
+      "questionId": 376,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
