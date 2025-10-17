@@ -3355,6 +3355,18 @@
       "answers": {
         "3": false
       }
+    },
+    {
+      "questionId": 371,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 499,
+      "answers": {
+        "3": false
+      }
     }
   ]
 }
