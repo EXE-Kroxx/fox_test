@@ -3455,7 +3455,9 @@
     {
       "questionId": 463,
       "answers": {
-        "1": false
+        "1": false,
+        "2": true,
+        "3": false
       }
     },
     {
@@ -3598,6 +3600,12 @@
     },
     {
       "questionId": 486,
+      "answers": {
+        "3": false
+      }
+    },
+    {
+      "questionId": 439,
       "answers": {
         "3": false
       }
