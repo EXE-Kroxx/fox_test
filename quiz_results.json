@@ -3845,6 +3845,12 @@
       "answers": {
         "3": false
       }
+    },
+    {
+      "questionId": 406,
+      "answers": {
+        "1": false
+      }
     }
   ]
 }
