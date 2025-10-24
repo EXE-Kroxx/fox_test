@@ -3825,7 +3825,9 @@
     {
       "questionId": 334,
       "answers": {
-        "2": false
+        "2": false,
+        "1": true,
+        "3": false
       }
     },
     {
