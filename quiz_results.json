@@ -3553,7 +3553,9 @@
     {
       "questionId": 377,
       "answers": {
-        "3": false
+        "3": false,
+        "1": true,
+        "2": false
       }
     },
     {
