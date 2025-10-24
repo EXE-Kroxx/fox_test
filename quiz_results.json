@@ -3871,6 +3871,14 @@
       "answers": {
         "3": false
       }
+    },
+    {
+      "questionId": 428,
+      "answers": {
+        "1": true,
+        "2": false,
+        "3": false
+      }
     }
   ]
 }
