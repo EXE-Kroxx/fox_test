@@ -2833,7 +2833,9 @@
     {
       "questionId": 353,
       "answers": {
-        "1": false
+        "1": false,
+        "2": true,
+        "3": false
       }
     },
     {
