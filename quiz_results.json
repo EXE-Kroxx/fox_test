@@ -3837,6 +3837,12 @@
       "answers": {
         "2": false
       }
+    },
+    {
+      "questionId": 419,
+      "answers": {
+        "3": false
+      }
     }
   ]
 }
