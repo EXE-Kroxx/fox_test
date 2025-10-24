@@ -3935,6 +3935,14 @@
         "2": false,
         "3": true
       }
+    },
+    {
+      "questionId": 393,
+      "answers": {
+        "1": false,
+        "2": true,
+        "3": false
+      }
     }
   ]
 }
